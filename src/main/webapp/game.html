@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
 
 <h1>Successfully deployed in PAT environment!!!</h1>
 
+<p>Date/Time: <span id="datetime"></span></p>
 
-</body>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
+</head>
+
 </html>
