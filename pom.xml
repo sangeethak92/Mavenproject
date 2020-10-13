@@ -8,6 +8,8 @@
   <artifactId>roshambo</artifactId>
   <version>3.0-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+  
 
   <name>roshambo web application</name>
   <url>http://www.mcnz.com</url>
